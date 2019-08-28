@@ -2,7 +2,9 @@
 <html lang="en">
 <head>
     <title>???</title>
-    <link href="css/style.css" rel="stylesheet" type="text/css">
+    <?php
+    wp_head();
+    ?>
 </head>
 <body>
     <div class="top">
